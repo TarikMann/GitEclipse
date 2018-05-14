@@ -6,6 +6,7 @@ public class Lanceur {
 		// TODO Auto-generated method stub
 		System.out.println("Helloo");
 		System.out.println("Partie Service");
+		System.out.println("C3");
 	}
 
 }
