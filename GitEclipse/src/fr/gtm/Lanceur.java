@@ -8,7 +8,7 @@ public class Lanceur {
 		System.out.println("Partie Service");
 		System.out.println("C3");
 		System.out.println("On avance a la deuxieme partie");
-	System.out.println("Allex");
+		System.out.println("New Branch");
 	}
 
 }
